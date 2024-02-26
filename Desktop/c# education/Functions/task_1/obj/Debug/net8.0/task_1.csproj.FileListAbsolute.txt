@@ -1,0 +1,15 @@
+/Users/sosnoooley/Desktop/c# education/Functions/task_1/bin/Debug/net8.0/task_1
+/Users/sosnoooley/Desktop/c# education/Functions/task_1/bin/Debug/net8.0/task_1.deps.json
+/Users/sosnoooley/Desktop/c# education/Functions/task_1/bin/Debug/net8.0/task_1.runtimeconfig.json
+/Users/sosnoooley/Desktop/c# education/Functions/task_1/bin/Debug/net8.0/task_1.dll
+/Users/sosnoooley/Desktop/c# education/Functions/task_1/bin/Debug/net8.0/task_1.pdb
+/Users/sosnoooley/Desktop/c# education/Functions/task_1/obj/Debug/net8.0/task_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sosnoooley/Desktop/c# education/Functions/task_1/obj/Debug/net8.0/task_1.AssemblyInfoInputs.cache
+/Users/sosnoooley/Desktop/c# education/Functions/task_1/obj/Debug/net8.0/task_1.AssemblyInfo.cs
+/Users/sosnoooley/Desktop/c# education/Functions/task_1/obj/Debug/net8.0/task_1.csproj.CoreCompileInputs.cache
+/Users/sosnoooley/Desktop/c# education/Functions/task_1/obj/Debug/net8.0/task_1.sourcelink.json
+/Users/sosnoooley/Desktop/c# education/Functions/task_1/obj/Debug/net8.0/task_1.dll
+/Users/sosnoooley/Desktop/c# education/Functions/task_1/obj/Debug/net8.0/refint/task_1.dll
+/Users/sosnoooley/Desktop/c# education/Functions/task_1/obj/Debug/net8.0/task_1.pdb
+/Users/sosnoooley/Desktop/c# education/Functions/task_1/obj/Debug/net8.0/task_1.genruntimeconfig.cache
+/Users/sosnoooley/Desktop/c# education/Functions/task_1/obj/Debug/net8.0/ref/task_1.dll
